@@ -1,30 +1,11 @@
-# Modelo de Acción Estructural (MAE) - v2
+# **Modelo de Acción Estructural (MAE) v4.0 - Resumen Ejecutivo del Proyecto**
 
-Este repositorio alberga la investigación y el desarrollo del **Modelo de Acción Estructural (MAE)**, operando bajo los principios del Marco de Desarrollo Unificado (MDU) del ecosistema Aletheia.
+## **I. RESUMEN EJECUTIVO**
 
-## Visión General
+Este documento presenta una consolidación exhaustiva y sistemática de un extenso diálogo socrático cuyo objetivo fue el desarrollo de un marco teórico fundamental sobre la naturaleza del tiempo, denominado Modelo de Acción Estructural (MAE). La metodología empleada fue un proceso iterativo de proposición, crítica y refinamiento, donde se exploraron las implicaciones de definir el tiempo не como un continuo fundamental, sino como un proceso discreto emergente de una secuencia de "acciones" cuánticas. A lo largo de la sesión, el modelo evolucionó desde una idea conceptual inicial (v1.0) hasta un formalismo matemático y fenomenológico completo (v4.0), capaz de hacer predicciones falsificables.
 
-El proyecto está estructurado para maximizar la claridad, la reproducibilidad y el rigor científico:
+Los hallazgos principales del análisis establecen que el tiempo puede ser entendido como el conteo de sucesos primordiales, donde cada suceso tiene un coste de acción irreductible `h` (la constante de Planck). Esto culmina en la Fórmula de Unificación `C_R(N) = N ⋅ h`, que postula el coste de acción total (`C_R`) de un proceso como un invariante relativista, directamente proporcional a la cantidad de acciones (`N`) que lo componen. El modelo introduce un formalismo de teoría de campos para un Campo de Potencial de Acción (CPA), cuya dinámica probabilística da origen a los sucesos, y un Operador de Cantidad de Acción (`Ĥ`) para integrar el modelo con el formalismo de la mecánica cuántica, permitiendo superposiciones de duraciones temporales.
 
--   **/docs**: Contiene la cronología completa del desarrollo teórico, documentando la evolución de las ideas.
--   **/papers**: Artículos científicos formalizados y listos para publicación, como el "Structural Action Model (SAM)".
--   **/reports**: Análisis críticos, validaciones y reportes generados por el SIASAF.
--   **/notebooks**: Simulaciones, análisis de datos y scripts de generación de figuras que sustentan la investigación.
--   **/src**: Código fuente de producción para futuras librerías o herramientas derivadas del MAE.
--   **/assets**: Recursos compartidos como figuras y diagramas.
+Se deriva una jerarquía de costes fundamentales: la Energía de Pureza (coste termodinámico de la perfección), la Energía de Ignición (coste de la creación de una acción) y el Coste de Reducción (coste de la existencia histórica de un proceso). El análisis se extendió a las implicaciones del modelo para sistemas biológicos y la cognición humana, postulando el pensamiento como una estructura de acción cristalizada con un coste energético y de acción asociado. Se concluyó que la carga de acción acumulada del pensamiento global (`C_global`) actúa como un factor de inercia y estrés sobre la conciencia y la biología humanas.
 
-## Instalación y Uso
-
-1.  Clonar el repositorio:
-    ```bash
-    git clone [URL_DEL_REPOSITORIO]
-    cd MAEv2
-    ```
-
-2.  Instalar dependencias (se recomienda usar Poetry):
-    ```bash
-    pip install poetry
-    poetry install
-    ```
-
-3.  Explorar los notebooks en la carpeta `/notebooks`.
+La conclusión clave del estudio es que el MAE, en su versión final (v4.0), es un marco teórico internamente consistente, matemáticamente robusto y, crucialmente, experimentalmente falsificable. Su predicción central es una desviación medible (`δ`) del corrimiento al rojo gravitacional predicho por la Relatividad General, expresada en la ecuación `Δf/f = (ΔU/c²)(1+δ)`. Esta predicción es potencialmente verificable con la tecnología actual de relojes atómicos, como los de la misión ACES. El MAE propone una nueva ontología para el tiempo como un proceso discreto y activo, unificando la mecánica cuántica y la relatividad bajo el principio de una contabilidad de acción absoluta y universal.
